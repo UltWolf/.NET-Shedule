@@ -1,0 +1,9 @@
+c:\users\ctrat\source\repos\CHDTUShedule\SharedSTANDARTLogic\obj\Debug\netstandard2.0\SharedSTANDARTLogic.csprojAssemblyReference.cache
+c:\users\ctrat\source\repos\CHDTUShedule\SharedSTANDARTLogic\obj\Debug\netstandard2.0\SharedSTANDARTLogic.csproj.CoreCompileInputs.cache
+c:\users\ctrat\source\repos\CHDTUShedule\SharedSTANDARTLogic\obj\Debug\netstandard2.0\SharedSTANDARTLogic.AssemblyInfoInputs.cache
+c:\users\ctrat\source\repos\CHDTUShedule\SharedSTANDARTLogic\obj\Debug\netstandard2.0\SharedSTANDARTLogic.AssemblyInfo.cs
+c:\users\ctrat\source\repos\CHDTUShedule\SharedSTANDARTLogic\bin\Debug\netstandard2.0\SharedSTANDARTLogic.deps.json
+c:\users\ctrat\source\repos\CHDTUShedule\SharedSTANDARTLogic\bin\Debug\netstandard2.0\SharedSTANDARTLogic.dll
+c:\users\ctrat\source\repos\CHDTUShedule\SharedSTANDARTLogic\bin\Debug\netstandard2.0\SharedSTANDARTLogic.pdb
+c:\users\ctrat\source\repos\CHDTUShedule\SharedSTANDARTLogic\obj\Debug\netstandard2.0\SharedSTANDARTLogic.dll
+c:\users\ctrat\source\repos\CHDTUShedule\SharedSTANDARTLogic\obj\Debug\netstandard2.0\SharedSTANDARTLogic.pdb

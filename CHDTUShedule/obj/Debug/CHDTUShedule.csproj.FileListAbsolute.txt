@@ -1,0 +1,2 @@
+c:\users\ctrat\source\repos\CHDTUShedule\CHDTUShedule\obj\Debug\CHDTUShedule.csprojAssemblyReference.cache
+c:\users\ctrat\source\repos\CHDTUShedule\CHDTUShedule\obj\Debug\CHDTUShedule.csproj.CoreCompileInputs.cache

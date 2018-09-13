@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopShedule", "DesktopShedule\DesktopShedule.csproj", "{ABDC4611-57A6-4672-A21D-DB3CE4ACFEE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedSTANDARTLogic", "SharedSTANDARTLogic\SharedSTANDARTLogic.csproj", "{88858DDB-2AFD-4EEC-95A8-8180D3E8E371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidssShedule.Android", "AndroidssShedule\AndroidssShedule.Android\AndroidssShedule.Android.csproj", "{0D20538E-3443-4F35-BDE3-6275459ED5FF}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "AndroidssShedule", "AndroidssShedule\AndroidssShedule\AndroidssShedule.shproj", "{3F1EDEA2-CD1E-44B9-B8A3-E6CE2C0420DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestsShedule", "UnitTestsShedule\UnitTestsShedule.csproj", "{E3D247DF-5696-4693-9A94-E855DEEFCF1C}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		AndroidssShedule\AndroidssShedule\AndroidssShedule.projitems*{0d20538e-3443-4f35-bde3-6275459ed5ff}*SharedItemsImports = 4
+		AndroidssShedule\AndroidssShedule\AndroidssShedule.projitems*{3f1edea2-cd1e-44b9-b8a3-e6ce2c0420de}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABDC4611-57A6-4672-A21D-DB3CE4ACFEE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDC4611-57A6-4672-A21D-DB3CE4ACFEE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDC4611-57A6-4672-A21D-DB3CE4ACFEE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDC4611-57A6-4672-A21D-DB3CE4ACFEE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88858DDB-2AFD-4EEC-95A8-8180D3E8E371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88858DDB-2AFD-4EEC-95A8-8180D3E8E371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88858DDB-2AFD-4EEC-95A8-8180D3E8E371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88858DDB-2AFD-4EEC-95A8-8180D3E8E371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D20538E-3443-4F35-BDE3-6275459ED5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D20538E-3443-4F35-BDE3-6275459ED5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D20538E-3443-4F35-BDE3-6275459ED5FF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0D20538E-3443-4F35-BDE3-6275459ED5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D20538E-3443-4F35-BDE3-6275459ED5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D20538E-3443-4F35-BDE3-6275459ED5FF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E3D247DF-5696-4693-9A94-E855DEEFCF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D247DF-5696-4693-9A94-E855DEEFCF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D247DF-5696-4693-9A94-E855DEEFCF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D247DF-5696-4693-9A94-E855DEEFCF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1EE81A6-910A-4B0E-AB0C-46E73E95942E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+c:\users\ctrat\source\repos\CHDTUShedule\UnitTestsShedule\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\ctrat\source\repos\CHDTUShedule\UnitTestsShedule\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\ctrat\source\repos\CHDTUShedule\UnitTestsShedule\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\ctrat\source\repos\CHDTUShedule\UnitTestsShedule\bin\Debug\netcoreapp2.1\UnitTestsShedule.deps.json
+c:\users\ctrat\source\repos\CHDTUShedule\UnitTestsShedule\bin\Debug\netcoreapp2.1\UnitTestsShedule.runtimeconfig.json
+c:\users\ctrat\source\repos\CHDTUShedule\UnitTestsShedule\bin\Debug\netcoreapp2.1\UnitTestsShedule.runtimeconfig.dev.json
+c:\users\ctrat\source\repos\CHDTUShedule\UnitTestsShedule\bin\Debug\netcoreapp2.1\UnitTestsShedule.dll
+c:\users\ctrat\source\repos\CHDTUShedule\UnitTestsShedule\bin\Debug\netcoreapp2.1\UnitTestsShedule.pdb
+c:\users\ctrat\source\repos\CHDTUShedule\UnitTestsShedule\bin\Debug\netcoreapp2.1\SharedSTANDARTLogic.dll
+c:\users\ctrat\source\repos\CHDTUShedule\UnitTestsShedule\bin\Debug\netcoreapp2.1\SharedSTANDARTLogic.pdb
+c:\users\ctrat\source\repos\CHDTUShedule\UnitTestsShedule\obj\Debug\netcoreapp2.1\UnitTestsShedule.csprojAssemblyReference.cache
+c:\users\ctrat\source\repos\CHDTUShedule\UnitTestsShedule\obj\Debug\netcoreapp2.1\UnitTestsShedule.csproj.CoreCompileInputs.cache
+c:\users\ctrat\source\repos\CHDTUShedule\UnitTestsShedule\obj\Debug\netcoreapp2.1\UnitTestsShedule.AssemblyInfoInputs.cache
+c:\users\ctrat\source\repos\CHDTUShedule\UnitTestsShedule\obj\Debug\netcoreapp2.1\UnitTestsShedule.AssemblyInfo.cs
+c:\users\ctrat\source\repos\CHDTUShedule\UnitTestsShedule\obj\Debug\netcoreapp2.1\UnitTestsShedule.csproj.CopyComplete
+c:\users\ctrat\source\repos\CHDTUShedule\UnitTestsShedule\obj\Debug\netcoreapp2.1\UnitTestsShedule.dll
+c:\users\ctrat\source\repos\CHDTUShedule\UnitTestsShedule\obj\Debug\netcoreapp2.1\UnitTestsShedule.pdb
